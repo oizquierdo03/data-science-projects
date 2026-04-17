@@ -53,4 +53,4 @@ Machine learning models to detect fraudulent transactions in financial datasets.
 
 ## 👤 Author
 
-Omar Izquierdo, Andrea Gonzales, Andrea Quiroz
+Omar Izquierdo, Andrea Gonzalez, Andrea Quiroz
